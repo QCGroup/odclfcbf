@@ -1,0 +1,22 @@
+name: spacecraft_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13.5
+  - jupyter=1.1.1
+  - ipykernel=6.29.5
+  - ipympl=0.9.7
+  - ipywidgets=8.1.7
+  - matplotlib=3.10.3
+  - numpy=2.2.6
+  - scipy=1.15.2
+  - control=0.10.1
+  - slycot=0.6.0
+  - pip
+  - pip:
+      - clarabel==0.11.0
+      - cmeel==0.57.3
+      - cvxpy==1.6.5
+      - joblib==1.5.1
+      - proxsuite==0.7.2
