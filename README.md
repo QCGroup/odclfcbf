@@ -3,7 +3,7 @@
 This repository contains Jupyter notebooks and supporting files to implement the proposed methods and generate all figures from the paper:
 
 >M.A. Shahraki and L. Lessard.
-"Spacecraft attitude control under reaction wheel constraints using control Lyapunov and control barrier functions", American Control Conference, 2025 ([arXiv](https://arxiv.org/abs/2409.19936)) 
+"Spacecraft attitude control under reaction wheel constraints using control Lyapunov and control barrier functions", American Control Conference, pp. 947-952, 2025 ([DOI](https://doi.org/10.23919/ACC63710.2025.11108025), [arXiv](https://arxiv.org/abs/2409.19936)) 
 
 **Abstract:** This paper introduces a novel control strategy for agile spacecraft attitude control, addressing reaction wheel-related input and state constraints. An optimal-decay control Lyapunov function quadratic program stabilizes the system and mitigates chattering at low sampling frequencies, while control barrier functions enforce hard state constraints. Numerical simulations validate the method's practicality and efficiency for real-time agile spacecraft attitude control.
 
