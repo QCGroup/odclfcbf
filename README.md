@@ -89,13 +89,12 @@ For questions regarding this work, please contact the authors:
 
 To cite this work (bibtex):
 ```
-@misc{odclfcbf,
-    title={Spacecraft Attitude Control Under Reaction Wheel Constraints Using Control Lyapunov and Control Barrier Functions}, 
-    author={Milad Alipour Shahraki and Laurent Lessard},
-    year={2024},
-    eprint={2409.19936},
-    archivePrefix={arXiv},
-    primaryClass={eess.SY},
-    url={https://arxiv.org/abs/2409.19936}, 
+@inproceedings{odclfcbf,
+  author={Shahraki, Milad Alipour and Lessard, Laurent},
+  booktitle={American Control Conference (ACC)}, 
+  title={Spacecraft Attitude Control Under Reaction Wheel Constraints Using Control Lyapunov and Control Barrier Functions}, 
+  year={2025},
+  pages={947-952},
+  doi={10.23919/ACC63710.2025.11108025}
 }
 ```
